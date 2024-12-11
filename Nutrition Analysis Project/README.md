@@ -21,7 +21,7 @@ This project aims to build a comprehensive recipe nutrition database by integrat
 2. **`APIExtraction.py`:** Handles the API requests to retrieve nutritional information for recipes.
 3. **`DataCleaning.py`:** Cleans and preprocesses the recipe and nutritional data.
 4. **`Ingredients.db`:** SQLite database file storing the processed recipe and nutritional data.
-5. **`Food Ingredients and Recipe Dataset with Image Name Mapping.csv`:** Raw recipe data in CSV format.
+5. **`Food Ingredients and Recipe Dataset with Image Name Mapping Sample.csv`:** First 500 rows of raw recipe data in CSV format.
 6. **`nutrition_data.csv`:** Nutritional data retrieved from the API.
 
 ## Project Status
