@@ -35,7 +35,7 @@ This project is currently in progress. Key milestones include:
 2. Ensure Python and required libraries are installed.
 3. Update `config.py` with your API credentials.
 4. Execute `APIExtraction.py` to fetch nutritional data.
-5. Run `DataCleaning.py` to clean and preprocess the data.
+5. Run `GenerateIDs.py` to create a recipe ID and ingredient ID, which will be useful in SQL.
 6. Run `csv_to_db.py` to import original data and nutrition data into SQL.
 7. Query the SQLite database (`Ingredients.db`) for analysis.
 
